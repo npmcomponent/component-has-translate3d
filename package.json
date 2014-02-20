@@ -1,0 +1,10 @@
+{
+  "name": "component-has-translate3d",
+  "description": "Feature detection of css translate3d",
+  "version": "0.0.2",
+  "keywords": [],
+  "dependencies": {
+    "component-transform-property": "git://github.com/npmcomponent/component-transform-property.git"
+  },
+  "license": "MIT"
+}
